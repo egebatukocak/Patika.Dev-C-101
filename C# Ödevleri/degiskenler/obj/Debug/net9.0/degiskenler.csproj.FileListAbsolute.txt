@@ -1,0 +1,14 @@
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\bin\Debug\net9.0\degiskenler.exe
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\bin\Debug\net9.0\degiskenler.deps.json
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\bin\Debug\net9.0\degiskenler.runtimeconfig.json
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\bin\Debug\net9.0\degiskenler.dll
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\bin\Debug\net9.0\degiskenler.pdb
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\degiskenler.AssemblyInfoInputs.cache
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\degiskenler.AssemblyInfo.cs
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\degiskenler.csproj.CoreCompileInputs.cache
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\degiskenler.dll
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\refint\degiskenler.dll
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\degiskenler.pdb
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\degiskenler.genruntimeconfig.cache
+c:\Users\pc\Desktop\dotnetProjeler\degiskenler\obj\Debug\net9.0\ref\degiskenler.dll
