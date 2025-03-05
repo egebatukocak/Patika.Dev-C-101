@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\bin\Debug\net6.0\Pozitive-Number.exe
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\bin\Debug\net6.0\Pozitive-Number.deps.json
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\bin\Debug\net6.0\Pozitive-Number.runtimeconfig.json
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\bin\Debug\net6.0\Pozitive-Number.dll
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\bin\Debug\net6.0\Pozitive-Number.pdb
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\Pozitive-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\Pozitive-Number.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\Pozitive-Number.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\Pozitive-Number.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\Pozitive-Number.dll
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\refint\Pozitive-Number.dll
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\Pozitive-Number.pdb
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\Pozitive-Number.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\ConsoleApp1\Bank Counts\Pozitive-Number\Pozitive-Number\obj\Debug\net6.0\ref\Pozitive-Number.dll
